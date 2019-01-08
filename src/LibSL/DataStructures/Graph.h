@@ -50,7 +50,6 @@ knowledge of the CeCILL-C license and that you accept its terms.
 #include <LibSL/Errors/Errors.h>
 #include <LibSL/CppHelpers/CppHelpers.h>
 #include <LibSL/Memory/Pointer.h>
-#include <LibSL/Memory/TraceLeaks.h>
 #include <LibSL/Memory/Array.h>
 #include <LibSL/Math/Tuple.h>
 #include <LibSL/Math/Math.h>
