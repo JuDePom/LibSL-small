@@ -81,6 +81,9 @@ knowledge of the CeCILL-C license and that you accept its terms.
 #include <LibSL/Image/ImagePyramid.h>
 #include <LibSL/Image/ImageFormat_TGA.h>
 
+#include <LibSL/DataStructures/Graph.h>
+#include <LibSL/DataStructures/GraphAlgorithms.h>
+
 // using namespace LibSL;
 using namespace LibSL;
 using namespace LibSL::Errors;
